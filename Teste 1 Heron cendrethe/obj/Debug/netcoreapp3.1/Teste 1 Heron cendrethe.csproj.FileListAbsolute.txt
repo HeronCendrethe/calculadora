@@ -1,0 +1,18 @@
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.exe
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.deps.json
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.runtimeconfig.json
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.runtimeconfig.dev.json
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.pdb
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.csprojAssemblyReference.cache
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.AssemblyInfoInputs.cache
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.AssemblyInfo.cs
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.pdb
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando Cendrethe\source\repos\Teste 1 Heron cendrethe\Teste 1 Heron cendrethe\obj\Debug\netcoreapp3.1\Teste 1 Heron cendrethe.csproj.CopyComplete
